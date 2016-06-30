@@ -1,6 +1,6 @@
 {
   "name": "l-a-a-s",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "老黄历-as-a-service",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,8 @@
   "keywords": [
     "a-a-s"
   ],
+  "homepage": "https://github.com/a-a-s/laas/tree/master/javascript",
+  "bugs": {"url": "https://github.com/a-a-s/laas/issues"},
   "author": "hbc <me@hbc.rocks>",
   "license": "MIT"
 }
