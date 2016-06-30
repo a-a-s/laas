@@ -1,0 +1,14 @@
+{
+  "name": "l-a-a-s",
+  "version": "0.0.1",
+  "description": "老黄历-as-a-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "a-a-s"
+  ],
+  "author": "hbc <me@hbc.rocks>",
+  "license": "MIT"
+}
