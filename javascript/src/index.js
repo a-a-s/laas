@@ -175,7 +175,7 @@ function goddess() {
   const maxLevel = GODDESS_SYMBOL.length / 2;
   const level = random(maxLevel + 1) % maxLevel;
   return {
-    godddess: {
+    goddess: {
       level,
       symbol: GODDESS_SYMBOL.slice(maxLevel - level, maxLevel * 2 - level),
     },
