@@ -1,6 +1,6 @@
 {
   "name": "l-a-a-s",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "老黄历-as-a-service",
   "main": "./dist/index.js",
   "scripts": {
